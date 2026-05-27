@@ -1,1 +1,9 @@
 .venv/
+
+# IDE 개인 설정
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc

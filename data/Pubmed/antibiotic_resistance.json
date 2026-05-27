@@ -1,0 +1,2541 @@
+[
+  {
+    "pmid": "36537602",
+    "title": "Antibiotic Resistance and Microbiota Response.",
+    "abstract": "Use of antibiotics has dramatically eradicated bacterial infections in humans and animals. However, antibiotic overdose and abuse are responsible for the emergence of so-called multi-drug resistant bacteria. Gut microbiota deserves many functions in the host, and among them, integrity of epithelial barrier and enhancement of protective immune responses are included. There is evidence that antibiotic treatment decreases the diversity of gut microbiota species, also provoking metabolic changes, increased susceptibility to colonization and decrease of antimicrobial peptide secretion, leading to antibiotic resistance. In this review, the major mechanisms involved in antibiotic resistance will be illustrated. However, novel findings on the potential use of alternative treatments to overcome antibiotic resistance will be elucidated. In this regard, special emphasis will be placed on microcins, prebiotics, probiotics and postbiotics, as well as phage therapy and fecal microbial transplantation.",
+    "authors": [
+      "Santacroce Luigi",
+      "Di Domenico Marina",
+      "Montagnani Monica",
+      "Jirillo Emilio"
+    ],
+    "journal": "Current pharmaceutical design",
+    "pub_date": {
+      "year": "2023",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Animals",
+      "Humans",
+      "Microbiota",
+      "Probiotics",
+      "Prebiotics",
+      "Drug Resistance, Microbial",
+      "Gastrointestinal Microbiome",
+      "Anti-Bacterial Agents"
+    ],
+    "keywords": [
+      "Antibiotics",
+      "antibiotic resistance",
+      "gut immunity",
+      "gut microbiota",
+      "multi-drug resistant bacteria",
+      "probiotics"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "24847651",
+    "title": "General principles of antibiotic resistance in bacteria.",
+    "abstract": "Given the impact of antibiotic resistance on human health, its study is of great interest from a clinical view- point. In addition, antibiotic resistance is one of the few examples of evolution that can be studied in real time. Knowing the general principles involved in the acquisition of antibiotic resistance is therefore of interest to clinicians, evolutionary biologists and ecologists. The origin of antibiotic resistance genes now possessed by human pathogens can be traced back to environmental microorganisms. Consequently, a full understanding of the evolution of antibiotic resistance requires the study of natural environments as well as clinical ecosystems. Updated information on the evolutionary mechanisms behind resistance, indicates that ecological connectivity, founder effect and fitness costs are important bottle- necks that modulate the transfer of resistance from environmental microorganisms to pathogens.",
+    "authors": [
+      "Martinez Jose L"
+    ],
+    "journal": "Drug discovery today. Technologies",
+    "pub_date": {
+      "year": "2014",
+      "month": "Mar",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Drug Resistance, Microbial"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "30826682",
+    "title": "Antibiotic resistance in urban runoff.",
+    "abstract": "Aquatic ecosystems subjected to anthropogenic pressures are places of rapid evolution of microbial communities and likely hotspots for selection and emergence of antibiotic resistant bacteria. In urban settings, water quality and the risk of infection are generally assessed in sewers and in effluents of wastewater treatment plants. Physical and chemical parameters as well as the presence of antibiotics, antibiotic-resistant bacteria and genes of resistance are driven by urban activities, with adverse effects on aquatic ecosystems. In this paper we review the environmental pressures exerted on bacterial communities in urban runoff waters and discuss the impact of these settings on antibiotic resistance. Considering the worrisome epidemiology of infectious diseases and estimated mortality due to antimicrobial resistance in the coming decades, there is an urgent need to identify all environmental reservoirs of resistant bacteria and resistance genes to complete our knowledge of the epidemiological cycle and of the dynamics of urban antibiotic resistance.",
+    "authors": [
+      "Almakki Ayad",
+      "Jumas-Bilak Estelle",
+      "Marchandin Hélène",
+      "Licznar-Fajardo Patricia"
+    ],
+    "journal": "The Science of the total environment",
+    "pub_date": {
+      "year": "2019",
+      "month": "Jun",
+      "day": "01"
+    },
+    "mesh_terms": [
+      "Bacteria",
+      "Cities",
+      "Drug Resistance, Bacterial",
+      "Drug Resistance, Microbial",
+      "Microbiota",
+      "Wastewater"
+    ],
+    "keywords": [
+      "Anthropic pressures",
+      "Antibiotic resistance",
+      "Resistome",
+      "Urban runoff"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "31546630",
+    "title": "Comparison of Antibiotic Resistance Mechanisms in Antibiotic-Producing and Pathogenic Bacteria.",
+    "abstract": "Antibiotic resistance poses a tremendous threat to human health. To overcome this problem, it is essential to know the mechanism of antibiotic resistance in antibiotic-producing and pathogenic bacteria. This paper deals with this problem from four points of view. First, the antibiotic resistance genes in producers are discussed related to their biosynthesis. Most resistance genes are present within the biosynthetic gene clusters, but some genes such as paromomycin acetyltransferases are located far outside the gene cluster. Second, when the antibiotic resistance genes in pathogens are compared with those in the producers, resistance mechanisms have dependency on antibiotic classes, and, in addition, new types of resistance mechanisms such as Eis aminoglycoside acetyltransferase and self-sacrifice proteins in enediyne antibiotics emerge in pathogens. Third, the relationships of the resistance genes between producers and pathogens are reevaluated at their amino acid sequence as well as nucleotide sequence levels. Pathogenic bacteria possess other resistance mechanisms than those in antibiotic producers. In addition, resistance mechanisms are little different between early stage of antibiotic use and the present time, e.g., β-lactam resistance in Staphylococcus aureus. Lastly, guanine + cytosine (GC) barrier in gene transfer to pathogenic bacteria is considered. Now, the resistance genes constitute resistome composed of complicated mixture from divergent environments.",
+    "authors": [
+      "Ogawara Hiroshi"
+    ],
+    "journal": "Molecules (Basel, Switzerland)",
+    "pub_date": {
+      "year": "2019",
+      "month": "Sep",
+      "day": "21"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Drug Resistance, Microbial",
+      "Staphylococcus aureus"
+    ],
+    "keywords": [
+      "antibiotic producer",
+      "antibiotic resistance",
+      "bacterium",
+      "pathogenic bacteria",
+      "self-resistance"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "31176071",
+    "title": "Global economic impact of antibiotic resistance: A review.",
+    "abstract": "The pandemic of antibiotic resistance has become a serious threat to the therapeutic efficacy of the available antibiotics and their prescribed regimens. The problem is multifaceted as it encompasses medical, social, economic and anthropogenic spheres. The present review reports the global economic impact of antibiotic resistance among humans on the basis of published research as well as reports of national and international organisations. The impact is catastrophic because it includes patients, healthcare providers, researchers, pharmaceutical organisations, healthcare businesses and, moreover, national and international policy-makers. We found very serious economic impacts of the existing and emerging antibiotic resistance conditions. This study is divided into geographical regions to see the total impact. The risk of medical poverty trap is more significant in low-resource settings.",
+    "authors": [
+      "Ahmad Mohammad",
+      "Khan Asad U"
+    ],
+    "journal": "Journal of global antimicrobial resistance",
+    "pub_date": {
+      "year": "2019",
+      "month": "Dec",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Animals",
+      "Anti-Bacterial Agents",
+      "Bacterial Infections",
+      "Drug Resistance, Microbial",
+      "Global Health",
+      "Humans",
+      "Poverty"
+    ],
+    "keywords": [
+      "Antibiotic resistance",
+      "Economic impact",
+      "Human capital",
+      "Negative externality"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "7674965",
+    "title": "Antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Lim V K"
+    ],
+    "journal": "The Medical journal of Malaysia",
+    "pub_date": {
+      "year": "1994",
+      "month": "Dec",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Disease Outbreaks",
+      "Drug Resistance, Microbial",
+      "Health Surveys",
+      "Hospitals",
+      "Humans",
+      "Malaysia"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "9561819",
+    "title": "Antibiotic resistance. Control strategies.",
+    "abstract": "Antibiotic resistance is a worldwide concern. Over the past several decades, antibiotic resistance has increased to many respiratory pathogens as well as aerobic gram-negative bacilli. Recently, methicillin-resistant Staphylococcus aureus (MRSA) and vancomycin-resistant Enterococcus (VRE) have become important hospital pathogens. Antibiotic resistance is not related to a particular antibiotic structure and is not dependent upon mechanism of antibiotic action. The volume of use per se does not increase antimicrobial resistance. This article discusses control strategies and identifies which antibiotics are associated with the emergence of resistant organisms.",
+    "authors": [
+      "Cunha B A"
+    ],
+    "journal": "Critical care clinics",
+    "pub_date": {
+      "year": "1998",
+      "month": "Apr",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Infection Control",
+      "Intensive Care Units",
+      "Microbial Sensitivity Tests",
+      "United States"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "36683679",
+    "title": "Editorial: Pathogenic Neisseria: Pathogenicity, vaccines, and antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Arenas Jesús"
+    ],
+    "journal": "Frontiers in cellular and infection microbiology",
+    "pub_date": {
+      "year": "2022",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Neisseria",
+      "Virulence",
+      "Neisseria gonorrhoeae",
+      "Neisseria meningitidis",
+      "Vaccines",
+      "Drug Resistance, Microbial"
+    ],
+    "keywords": [
+      "Neisseria gonorrhoeae",
+      "Neisseria meningitidis",
+      "antibiotic resistance",
+      "bacteria competition",
+      "mafA/B system",
+      "two partner secretion system",
+      "vaccines"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "33280573",
+    "title": "Overcoming Antibiotic Resistance in Microorganisms: Molecular Mechanisms.",
+    "abstract": "This issue of the Biochemistry (Moscow) journal presents reviews and experimental articles on the new strategies for solving the problem of antibiotic resistance and on the search for novel antimicrobial preparations using the methods of molecular biology, genetics, and nanotechnology. A wide variety of scientific approaches and successful (as a rule) research results give hope for overcoming microbial antibiotic resistance in the fight against infectious diseases.",
+    "authors": [
+      "Gabibov A G",
+      "Dontsova O A",
+      "Egorov A M"
+    ],
+    "journal": "Biochemistry. Biokhimiia",
+    "pub_date": {
+      "year": "2020",
+      "month": "Nov",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Drug Resistance, Microbial",
+      "Humans"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "24836051",
+    "title": "Reversibility of antibiotic resistance.",
+    "abstract": "Although theoretically attractive, the reversibility of resistance has proven difficult in practice, even though antibiotic resistance mechanisms induce a fitness cost to the bacterium. Associated resistance to other antibiotics and compensatory mutations seem to ameliorate the effect of antibiotic interventions in the community. In this paper the current understanding of the concepts of reversibility of antibiotic resistance and the interventions performed in hospitals and in the community are reviewed.",
+    "authors": [
+      "Sundqvist Martin"
+    ],
+    "journal": "Upsala journal of medical sciences",
+    "pub_date": {
+      "year": "2014",
+      "month": "May",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Cross Infection",
+      "Drug Resistance, Microbial",
+      "Humans"
+    ],
+    "keywords": [
+      "Antibiotic resistance",
+      "fitness",
+      "intervention"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "29123317",
+    "title": "Antibiotic resistance.",
+    "abstract": "New antibiotics and further education about prescribing are needed.",
+    "authors": [],
+    "journal": "British dental journal",
+    "pub_date": {
+      "year": "2017",
+      "month": "Nov",
+      "day": "10"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "11964861",
+    "title": "Antibiotic resistance: closing the loop.",
+    "abstract": "",
+    "authors": [
+      "Burke J P"
+    ],
+    "journal": "Current opinion in infectious diseases",
+    "pub_date": {
+      "year": "2001",
+      "month": "Aug",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Chemistry, Pharmaceutical",
+      "Drug Resistance, Microbial",
+      "Drug Utilization",
+      "Humans",
+      "Information Systems",
+      "Intensive Care Units"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "37655922",
+    "title": "[Foreword: One health, sharing microbes and antibiotic resistance].",
+    "abstract": "",
+    "authors": [
+      "Jestin André",
+      "Artiges Agnès",
+      "Hache Christine"
+    ],
+    "journal": "Comptes rendus biologies",
+    "pub_date": {
+      "year": "2024",
+      "month": "Mar",
+      "day": "29"
+    },
+    "mesh_terms": [
+      "One Health",
+      "Drug Resistance, Microbial",
+      "Anti-Bacterial Agents"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "9786379",
+    "title": "Antibiotic resistance--squeezing the balloon?",
+    "abstract": "",
+    "authors": [
+      "Burke J P"
+    ],
+    "journal": "JAMA",
+    "pub_date": {
+      "year": "1998",
+      "month": "Oct",
+      "day": "14"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Cross Infection",
+      "Drug Resistance, Microbial",
+      "Drug Utilization",
+      "Humans",
+      "Infection Control"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "11115751",
+    "title": "What is antibiotic resistance and how can we measure it?",
+    "abstract": "Antibiotic resistance is being found with increasing frequency in both pathogenic and commensal bacteria of humans and animals. Quantifying resistance within and between bacterial and host populations presents scientists with complex challenges in terms of laboratory methodologies and sampling design. Here, we discuss, from an epidemiological perspective, how antibiotic resistance can be defined and measured and the limitations of current approaches.",
+    "authors": [
+      "Davison H C",
+      "Low J C",
+      "Woolhouse M E"
+    ],
+    "journal": "Trends in microbiology",
+    "pub_date": {
+      "year": "2000",
+      "month": "Dec",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Bacterial Infections",
+      "Drug Resistance, Microbial"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "4863469",
+    "title": "Antibiotic resistance--theory and practice.",
+    "abstract": "",
+    "authors": [
+      "Gale G O",
+      "Kiser J S"
+    ],
+    "journal": "Transactions of the New York Academy of Sciences",
+    "pub_date": {
+      "year": "1967",
+      "month": "May",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "11136269",
+    "title": "Managing antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Wenzel R P",
+      "Edmond M B"
+    ],
+    "journal": "The New England journal of medicine",
+    "pub_date": {
+      "year": "2000",
+      "month": "Dec",
+      "day": "28"
+    },
+    "mesh_terms": [
+      "Bacterial Vaccines",
+      "Colony Count, Microbial",
+      "Drug Prescriptions",
+      "Drug Resistance, Microbial",
+      "Drug Resistance, Multiple",
+      "Enterococcus",
+      "Humans",
+      "Penicillin Resistance",
+      "Pneumococcal Infections",
+      "Pneumococcal Vaccines",
+      "Practice Patterns, Physicians'",
+      "Streptococcus pneumoniae",
+      "United States",
+      "Vancomycin Resistance"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "10783715",
+    "title": "Antibiotic resistance in aquaculture.",
+    "abstract": "",
+    "authors": [
+      "Sørum H"
+    ],
+    "journal": "Acta veterinaria Scandinavica. Supplementum",
+    "pub_date": {
+      "year": "1999",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Animals",
+      "Anti-Bacterial Agents",
+      "Aquaculture",
+      "Bacterial Infections",
+      "Drug Resistance, Microbial",
+      "Europe",
+      "Fishes",
+      "Japan"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "8899217",
+    "title": "Antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Woodhead M"
+    ],
+    "journal": "British journal of hospital medicine",
+    "pub_date": {
+      "year": "",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Adult",
+      "Child",
+      "Drug Resistance, Microbial",
+      "Global Health",
+      "Humans"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "3542934",
+    "title": "Antibiotic resistance in aquatic bacteria.",
+    "abstract": "Antibiotics are used extensively in medicine and agriculture, and some of the resistant bacteria which develop find their way into lakes and rivers. It was decided to use antibiotic resistance as a convenient marker to study gene transfer in the natural environment. However, a preliminary survey of Windermere showed that there was a higher incidence of resistance in the bacteria isolated from the lake water than from the sewage effluent discharging into the lake. This unexpected result was followed by the more surprising finding that the incidence of resistance was even higher in the bacterial populations of two remote upland tarns. The results have important implications for those involved in examining the spread of antibiotic resistance into remote environments. Some of the technical problems in determining the antibiotic resistance profiles of aquatic bacteria are discussed.",
+    "authors": [
+      "Jones J G"
+    ],
+    "journal": "The Journal of antimicrobial chemotherapy",
+    "pub_date": {
+      "year": "1986",
+      "month": "Oct",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Culture Media",
+      "Drug Resistance, Microbial",
+      "Sewage",
+      "Temperature",
+      "Water Microbiology"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "7889962",
+    "title": "Non-canonical mechanisms of antibiotic resistance.",
+    "abstract": "Although the current in vitro methods used for detection and analysis of the phenotypes of antibiotic resistance in the laboratory are well established, other resistance mechanisms of resistance exist which may escape detection using the standard approach. The present article reviews some of these mechanisms which are grouped under the term 'non-canonical mechanisms' of antibiotic resistance. Such mechanisms include gene dosage, heterologous induction or selection, populational resistance and synergism between mechanisms of low resistance. The role of these mechanisms in the failure of therapy is discussed.",
+    "authors": [
+      "Martínez J L",
+      "Blázquez J",
+      "Baquero F"
+    ],
+    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+    "pub_date": {
+      "year": "1994",
+      "month": "Dec",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Drug Resistance, Multiple",
+      "Drug Synergism",
+      "Gene Dosage",
+      "Humans"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "37838366",
+    "title": "[Antibiotic resistance, a cross-functional issue (One Health)].",
+    "abstract": "Antibiotic resistance is a public health issue that must be tackled within the One Health concept. This means continuing efforts to coordinate the action plans of the various ministries, on the one hand, and gaining a better understanding (from a scientific point of view) of the key points in the passage of antibiotic resistance between two sectors, on the other. This article shows how human medicine, veterinary medicine and the environment are affected by this issue.",
+    "authors": [
+      "Madec Jean-Yves"
+    ],
+    "journal": "Revue de l'infirmiere",
+    "pub_date": {
+      "year": "2023",
+      "month": "Oct",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Humans",
+      "One Health",
+      "Drug Resistance, Microbial",
+      "Public Health",
+      "Anti-Bacterial Agents"
+    ],
+    "keywords": [
+      "One Health",
+      "antibiorésistance",
+      "antibiotic resistance",
+      "environment",
+      "environnement",
+      "politique publique",
+      "public policy",
+      "recherche",
+      "research"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "38343889",
+    "title": "Editorial: Synergistic combinatorial treatments to overcome antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Garza-Cervantes Javier A",
+      "León-Buitimea Angel"
+    ],
+    "journal": "Frontiers in cellular and infection microbiology",
+    "pub_date": {
+      "year": "2024",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial"
+    ],
+    "keywords": [
+      "antibiotic resistance",
+      "antimicrobial biopolymers",
+      "antimicrobial nanocomposites",
+      "antimicrobial nanoparticles",
+      "antimicrobial peptides",
+      "green synthesis",
+      "synergistic treatment"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "25812451",
+    "title": "Antibiotic resistance in hospitals.",
+    "abstract": "",
+    "authors": [
+      "Alsaeed Amal",
+      "Blondeau Joseph M"
+    ],
+    "journal": "Future microbiology",
+    "pub_date": {
+      "year": "2015",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Bacterial Infections",
+      "Cross Infection",
+      "Drug Resistance, Microbial",
+      "Hospitals",
+      "Humans"
+    ],
+    "keywords": [
+      "antimicrobial resistance",
+      "hospital"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "37850053",
+    "title": "Editorial: Helicobacter pylori infection and antibiotic resistance: clinical, translational and experimental studies.",
+    "abstract": "",
+    "authors": [
+      "Yadegar Abbas",
+      "Nabavi-Rad Ali",
+      "Smith Sinéad Marian"
+    ],
+    "journal": "Frontiers in cellular and infection microbiology",
+    "pub_date": {
+      "year": "2023",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Humans",
+      "Helicobacter Infections",
+      "Helicobacter pylori",
+      "Anti-Bacterial Agents",
+      "Gastritis",
+      "Drug Resistance, Microbial"
+    ],
+    "keywords": [
+      "Helicobacter pylori",
+      "antibiotic resistance",
+      "gastric microbiota",
+      "gastric ulcer",
+      "probiotic"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "33869085",
+    "title": "Editorial: Interaction of Pathogenic Escherichia coli With the Host: Pathogenomics, Virulence and Antibiotic Resistance.",
+    "abstract": "",
+    "authors": [
+      "Gomes Tânia A T",
+      "Dobrindt Ulrich",
+      "Farfan Mauricio J",
+      "Piazza Roxane M F"
+    ],
+    "journal": "Frontiers in cellular and infection microbiology",
+    "pub_date": {
+      "year": "2021",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Bacterial",
+      "Drug Resistance, Microbial",
+      "Escherichia coli",
+      "Escherichia coli Infections",
+      "Escherichia coli Proteins",
+      "Humans",
+      "Phylogeny",
+      "Virulence",
+      "Virulence Factors"
+    ],
+    "keywords": [
+      "Escherichia coli",
+      "antibiotic resistance",
+      "evolution",
+      "genome",
+      "virulence factors"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "37838364",
+    "title": "[HAS recommendations on antibiotic resistance].",
+    "abstract": "The Haute Autorité de Santé (HAS), created by the French Health Insurance Act of August 13, 2004, is an independent scientific public authority, with legal personality and financial autonomy. Involved in the fight against antibiotic resistance, the HAS provides professionals and the general public with a range of tools to encourage the adoption of best practices in the use of antibiotics.",
+    "authors": [
+      "Saint-Lorant Guillaume"
+    ],
+    "journal": "Revue de l'infirmiere",
+    "pub_date": {
+      "year": "2023",
+      "month": "Oct",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Humans",
+      "Drug Resistance, Microbial",
+      "France"
+    ],
+    "keywords": [
+      "HAS",
+      "antibiorésistance",
+      "antibiotic resistance",
+      "bacterial infection",
+      "bonne pratique",
+      "good practice",
+      "infection bactérienne",
+      "recommandation",
+      "recommendation"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "8939559",
+    "title": "Antibiotic resistance: counting the cost.",
+    "abstract": "Acquisition of drug resistance should impose a cost on bacteria. Recent studies, however, suggest that natural selection acts to reduce, or eliminate, the growth disadvantage of resistant bacteria, making it difficult to reverse the high levels of antibiotic resistance currently found in hospitals and the community.",
+    "authors": [
+      "Spratt B G"
+    ],
+    "journal": "Current biology : CB",
+    "pub_date": {
+      "year": "1996",
+      "month": "Oct",
+      "day": "01"
+    },
+    "mesh_terms": [
+      "Animals",
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Drug Resistance, Microbial",
+      "Hospitals",
+      "Humans",
+      "Selection, Genetic"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "37054726",
+    "title": "Antibiotic Resistance in Dermatology Part 2: Combating Resistance.",
+    "abstract": "Virtually any antibiotic can be used in dermatology given the broad range of conditions treated. With the widespread use of antibiotics and the rapid emergence of resistant organisms, it is important to understand how dermatologists can combat this issue.",
+    "authors": [
+      "Miller Austinn C",
+      "Adjei Susuana",
+      "Temiz Laurie A",
+      "Batta Sonali",
+      "Tyring Stephen K"
+    ],
+    "journal": "Skin therapy letter",
+    "pub_date": {
+      "year": "2023",
+      "month": "Mar",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Humans",
+      "Dermatology",
+      "Drug Resistance, Microbial",
+      "Anti-Bacterial Agents",
+      "Biochemical Phenomena",
+      "Acne Vulgaris"
+    ],
+    "keywords": [
+      "CARP",
+      "acne",
+      "antibiotic",
+      "antibiotic resistance",
+      "antimicrobial",
+      "bullous pemphigoid",
+      "dermatology",
+      "folliculitis decalvans",
+      "hidradenitis suppurativa",
+      "infection",
+      "rosacea"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "9682540",
+    "title": "Antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Smith A J",
+      "Roy K",
+      "Gibson J",
+      "Bagg J"
+    ],
+    "journal": "British dental journal",
+    "pub_date": {
+      "year": "1998",
+      "month": "Jun",
+      "day": "13"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Drug Utilization",
+      "Humans",
+      "Practice Patterns, Dentists'"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "8036504",
+    "title": "Antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Gross L J"
+    ],
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": {
+      "year": "1994",
+      "month": "Jul",
+      "day": "29"
+    },
+    "mesh_terms": [
+      "Cross Infection",
+      "Drug Resistance, Microbial",
+      "Humans"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "7751210",
+    "title": "Antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "McAllister H A"
+    ],
+    "journal": "Journal of the American Veterinary Medical Association",
+    "pub_date": {
+      "year": "1995",
+      "month": "Jan",
+      "day": "15"
+    },
+    "mesh_terms": [
+      "Animals",
+      "Bacteria",
+      "Drug Resistance, Microbial",
+      "Microbial Sensitivity Tests"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "8036502",
+    "title": "Antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Page M G"
+    ],
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": {
+      "year": "1994",
+      "month": "Jul",
+      "day": "29"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Design",
+      "Drug Resistance, Microbial",
+      "Enzyme Inhibitors"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "8540859",
+    "title": "Emerging antibiotic resistance: real and relative.",
+    "abstract": "",
+    "authors": [
+      "Jones D B"
+    ],
+    "journal": "Archives of ophthalmology (Chicago, Ill. : 1960)",
+    "pub_date": {
+      "year": "1996",
+      "month": "Jan",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Microbial Sensitivity Tests"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "34972798",
+    "title": "Pandemics, climate change, and antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Blunden Christelle"
+    ],
+    "journal": "The British journal of general practice : the journal of the Royal College of General Practitioners",
+    "pub_date": {
+      "year": "2022",
+      "month": "Jan",
+      "day": ""
+    },
+    "mesh_terms": [
+      "COVID-19",
+      "Climate Change",
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Pandemics"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "26917830",
+    "title": "Antibiotic resistance summit.",
+    "abstract": "",
+    "authors": [],
+    "journal": "The Veterinary record",
+    "pub_date": {
+      "year": "2016",
+      "month": "Feb",
+      "day": "27"
+    },
+    "mesh_terms": [
+      "Animals",
+      "Congresses as Topic",
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Veterinary Medicine"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "10549360",
+    "title": "Antibiotic resistance. The big picture.",
+    "abstract": "",
+    "authors": [
+      "Mazel D",
+      "Davies J"
+    ],
+    "journal": "Advances in experimental medicine and biology",
+    "pub_date": {
+      "year": "1998",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Bacterial Infections",
+      "Biological Evolution",
+      "Drug Resistance, Microbial",
+      "Humans"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "1787127",
+    "title": "A review of antibiotic resistance patterns of Streptococcus pneumoniae in Europe.",
+    "abstract": "Streptococcus pneumoniae no longer has predictable antibiotic susceptibility. There are two areas of high prevalence of resistance (over 25%) to beta-lactam antibiotics in the South-West and North-East of Europe. In Spain, a close relationship has been found between the yearly rate of aminopenicillin consumption and penicillin resistance. High level resistance (MIC greater than or equal to 1 mg/L) has developed against a previous background of low level resistance. The serotypes involved in penicillin resistance in Spain are widespread in other countries. Macrolide resistance is high in France (over 15%) and is also increasing in other countries. All these resistant isolates remain susceptible to the most recent fluoroquinolones, such as temafloxacin. Prospective surveillance, more rational use of antibiotics and a diversification of antibiotic use in respiratory tract infections may serve to limit the threat of antibiotic resistance in S. pneumoniae.",
+    "authors": [
+      "Baquero F",
+      "Martínez-Beltrán J",
+      "Loza E"
+    ],
+    "journal": "The Journal of antimicrobial chemotherapy",
+    "pub_date": {
+      "year": "1991",
+      "month": "Dec",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Europe",
+      "Microbial Sensitivity Tests",
+      "Streptococcus pneumoniae"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "36657435",
+    "title": "Antibiotic Resistance in Dermatology Part 1: Mechanisms of Resistance.",
+    "abstract": "Virtually any antibiotic can be used in dermatology given the broad range of conditions treated. With the widespread use of antibiotics and the rapid emergence of resistant organisms, it is important to understand the mechanisms at play that contribute to resistance.",
+    "authors": [
+      "Miller Austinn C.",
+      "Adjei Susuana",
+      "Temiz Laurie A.",
+      "Tyring Stephen K."
+    ],
+    "journal": "Skin therapy letter",
+    "pub_date": {
+      "year": "2023",
+      "month": "Jan",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Humans",
+      "Dermatology",
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial"
+    ],
+    "keywords": [
+      "antibiotic resistance",
+      "dermatology",
+      "mechanisms of resistance",
+      "antibiotic",
+      "antimicrobial",
+      "infection"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "38037767",
+    "title": "Kynomycin: a beacon of hope in the battle against antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Vaid Rayyan",
+      "Qader Rabia",
+      "Fareed Areeba",
+      "Farhat Solay"
+    ],
+    "journal": "Future medicinal chemistry",
+    "pub_date": {
+      "year": "2023",
+      "month": "Dec",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Drug Resistance, Bacterial",
+      "Microbial Sensitivity Tests"
+    ],
+    "keywords": [
+      "antibiotic resistance",
+      "cell membrane",
+      "daptomycin",
+      "healthcare prospects",
+      "kynomycin"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "35331974",
+    "title": "Knowledge and perceptions of antibiotic resistance in the French population.",
+    "abstract": "To draw up an inventory of health behaviors and knowledge of the French population regarding antibiotic resistance. Overall, 44% of participants properly defined antibiotic resistance. Antibiotic abuse was identified as the main cause of antibiotic resistance, and 66% believed that an antibiotic-resistant infection can be fatal. However, 32% did not strictly comply with the dosage and duration of an antibiotic treatment. Analysis of social representations of antibiotic resistance revealed erroneous beliefs about this phenomenon. Our results highlight the need to continue to inform the French public of antibiotic resistance. Associated beliefs could be obstacles to the proper use of antibiotics.",
+    "authors": [
+      "David J-C",
+      "Piednoir E",
+      "Delouvée S"
+    ],
+    "journal": "Infectious diseases now",
+    "pub_date": {
+      "year": "2022",
+      "month": "Aug",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Health Behavior",
+      "Health Knowledge, Attitudes, Practice",
+      "Humans"
+    ],
+    "keywords": [
+      "Antibiotic resistance",
+      "National survey",
+      "Qualitative research"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "29189251",
+    "title": "Reconsidering Antibiotic Resistance.",
+    "abstract": "What if our prescribing practices are wrong?",
+    "authors": [
+      "Todd Betsy"
+    ],
+    "journal": "The American journal of nursing",
+    "pub_date": {
+      "year": "2017",
+      "month": "Dec",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Practice Patterns, Physicians'"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "10622004",
+    "title": "Tackling antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Kumar A",
+      "Hoy C",
+      "Woodrow G",
+      "Turney J H"
+    ],
+    "journal": "The British journal of general practice : the journal of the Royal College of General Practitioners",
+    "pub_date": {
+      "year": "1999",
+      "month": "Jul",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Child",
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Streptococcal Infections",
+      "Streptococcus pyogenes"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "37838367",
+    "title": "[Nurses and the prevention of antibiotic resistance].",
+    "abstract": "Antibiotic resistance is a threat to human medicine. Preventing the risk of infection and participating in the proper use of antibiotics are part of nurses' mission to combat this phenomenon, in partnership with their colleagues who are experts in hygiene and infectiology.",
+    "authors": [
+      "Cecille Agnès"
+    ],
+    "journal": "Revue de l'infirmiere",
+    "pub_date": {
+      "year": "2023",
+      "month": "Oct",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Humans",
+      "Drug Resistance, Microbial",
+      "Hygiene",
+      "Nurses"
+    ],
+    "keywords": [
+      "antibiorésistance",
+      "antibiotic resistance",
+      "infectious risk",
+      "infirmier",
+      "nurse",
+      "operational hygiene team",
+      "prevention",
+      "prévention",
+      "risque infectieux",
+      "équipe opérationnelle d’hygiène"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "28481345",
+    "title": "Antibiotic resistance: Blocking tetracycline destruction.",
+    "abstract": "",
+    "authors": [
+      "Petkovic Sonja",
+      "Hinrichs Winfried"
+    ],
+    "journal": "Nature chemical biology",
+    "pub_date": {
+      "year": "2017",
+      "month": "Jul",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Tetracycline",
+      "Tetracycline Resistance"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "24694025",
+    "title": "Bacterial vaccines and antibiotic resistance.",
+    "abstract": "Spread of antibiotic resistance is mediated by clonal lineages of bacteria that besides being resistant also possess other properties promoting their success. Some vaccines already in use, such as the pneumococcal conjugate vaccines, have had an effect on these successful clones, but at the same time have allowed for the expansion and resistance evolution of previously minor clones not covered by the vaccine. Since resistance frequently is horizontally transferred it will be difficult to generate a vaccine that covers all possible genetic lineages prone to develop resistance unless the vaccine target(s) is absolutely necessary for spread and/or disease development. Targeting the resistance mechanism itself by a vaccine is an interesting but hitherto unexplored approach.",
+    "authors": [
+      "Henriques-Normark Birgitta",
+      "Normark Staffan"
+    ],
+    "journal": "Upsala journal of medical sciences",
+    "pub_date": {
+      "year": "2014",
+      "month": "May",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Bacterial Vaccines",
+      "Drug Resistance, Microbial"
+    ],
+    "keywords": [
+      "ESBL",
+      "Haemophilus influenzae",
+      "MRSA",
+      "Staphylococcus aureus",
+      "Streptococcus pneumoniae",
+      "antibiotic resistance",
+      "bacterial vaccines",
+      "transpeptidases",
+      "β-Lactamases"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "29615200",
+    "title": "The natural environment and emergence of antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "The Lancet Planetary Health"
+    ],
+    "journal": "The Lancet. Planetary health",
+    "pub_date": {
+      "year": "2018",
+      "month": "Jan",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Environment",
+      "Health Policy",
+      "Humans",
+      "United Nations"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "2689423",
+    "title": "Antibiotic resistance in enterococci.",
+    "abstract": "",
+    "authors": [
+      "Greenwood D"
+    ],
+    "journal": "The Journal of antimicrobial chemotherapy",
+    "pub_date": {
+      "year": "1989",
+      "month": "Nov",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Streptococcus"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "13222446",
+    "title": "[Antibiotic resistance].",
+    "abstract": "",
+    "authors": [
+      "MELNOTTE"
+    ],
+    "journal": "Journal des sciences medicales de Lille",
+    "pub_date": {
+      "year": "1954",
+      "month": "Oct",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Microbial Sensitivity Tests"
+    ],
+    "keywords": [
+      "ANTIBIOTICS/resistance and sensitivity"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "21419015",
+    "title": "Antibiotic resistance: a global concern.",
+    "abstract": "",
+    "authors": [
+      "Tanwir Farzeen",
+      "Khiyani Faheem"
+    ],
+    "journal": "Journal of the College of Physicians and Surgeons--Pakistan : JCPSP",
+    "pub_date": {
+      "year": "2011",
+      "month": "Mar",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Global Health",
+      "Health Knowledge, Attitudes, Practice",
+      "Humans",
+      "Practice Patterns, Dentists'",
+      "Practice Patterns, Physicians'"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "38427419",
+    "title": "How antibiotic resistance developed in the UK.",
+    "abstract": "",
+    "authors": [
+      "Jones Trevor"
+    ],
+    "journal": "The Veterinary record",
+    "pub_date": {
+      "year": "2024",
+      "month": "Mar",
+      "day": "02"
+    },
+    "mesh_terms": [
+      "Animals",
+      "Drug Resistance, Microbial",
+      "Anti-Bacterial Agents",
+      "United Kingdom",
+      "Drug Resistance, Bacterial"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "7634929",
+    "title": "Antibiotic resistance. Do we need new therapeutic approaches?",
+    "abstract": "",
+    "authors": [
+      "Felmingham D"
+    ],
+    "journal": "Chest",
+    "pub_date": {
+      "year": "1995",
+      "month": "Aug",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Respiratory Tract Infections"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "32272070",
+    "title": "Caging and COM-Bating Antibiotic Resistance.",
+    "abstract": "Horizontal gene transfer (HGT) facilitates spead of antibiotic resistance elements. In this issue of Cell Host & Microbe, Domenech et al. discover that compounds disrupting proton motive force block natural competence (COM) and interrupt intraspecies HGT and exchange of antibiotic resistance. Such strategies might minimize clinical spread of antibiotic resistance.",
+    "authors": [
+      "Rosch Jason W",
+      "Tuomanen Elaine I"
+    ],
+    "journal": "Cell host & microbe",
+    "pub_date": {
+      "year": "2020",
+      "month": "Apr",
+      "day": "08"
+    },
+    "mesh_terms": [
+      "Bacteria",
+      "Drug Resistance, Microbial",
+      "Gene Transfer, Horizontal",
+      "Plasmids",
+      "Proton-Motive Force"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "24902392",
+    "title": "Antibiotic resistance: a clinical danger beyond 2013.",
+    "abstract": "",
+    "authors": [
+      "John Joseph F",
+      "Steed Lisa L"
+    ],
+    "journal": "Journal of the South Carolina Medical Association (1975)",
+    "pub_date": {
+      "year": "2013",
+      "month": "Jun",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Antibiotic Prophylaxis",
+      "Drug Resistance, Bacterial",
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Prescription Drug Misuse"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "1578116",
+    "title": "Antibiotic resistance in pediatric pathogens.",
+    "abstract": "The prevalence of antibiotic resistance is increasing in pediatric pathogens. Methicillin resistance in Staphylococcus aureus and in S. epidermidis, and erythromycin resistance in group A streptococci are becoming major problems. Fortunately, all three species remain susceptible to vancomycin. In certain parts of the world, Haemophilus influenzae b that are resistant to a number of antibiotics are being recognized. Antibiotic therapy of pediatric infections in the future will continue to rely on yet-to-be developed agents.",
+    "authors": [
+      "Smith A L"
+    ],
+    "journal": "Infectious disease clinics of North America",
+    "pub_date": {
+      "year": "1992",
+      "month": "Mar",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Child",
+      "Drug Resistance, Microbial",
+      "Gram-Negative Bacteria",
+      "Gram-Positive Bacteria",
+      "Humans"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "3362171",
+    "title": "Antibiotic resistance from food.",
+    "abstract": "",
+    "authors": [
+      "Corpet D E"
+    ],
+    "journal": "The New England journal of medicine",
+    "pub_date": {
+      "year": "1988",
+      "month": "May",
+      "day": "05"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Drug Resistance, Microbial",
+      "Food Microbiology",
+      "Humans",
+      "Intestines"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "9675459",
+    "title": "Antibiotic resistance in Helicobacter pylori.",
+    "abstract": "",
+    "authors": [
+      "Solnick J V"
+    ],
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "pub_date": {
+      "year": "1998",
+      "month": "Jul",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Helicobacter Infections",
+      "Helicobacter pylori",
+      "Humans"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "33024312",
+    "title": "Nanomaterials arising amid antibiotic resistance.",
+    "abstract": "The rapid emergence of antibiotic resistance is recognized as a major public health threat. Nanomaterials have risen to tackle this problem through either improving the potency of existing antibiotics or generating entirely new antibacterial mechanisms.",
+    "authors": [
+      "Gao Weiwei",
+      "Zhang Liangfang"
+    ],
+    "journal": "Nature reviews. Microbiology",
+    "pub_date": {
+      "year": "2021",
+      "month": "Jan",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Bacterial Infections",
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Nanostructures"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "7865196",
+    "title": "[Antibiotic resistance: current problems and prospects].",
+    "abstract": "In recent years the frequency and spectrum of antibiotic resistant microorganisms have dramatically increased worldwide. In same cases certain infections turned out to be essentially untreatable with antimicrobial drugs. The antibiotic resistance and its transmissibility among different microorganisms poses serious problems for the near future. It is thus important to search and develop rapidly new antimicrobial drugs with improved activity and able to overcome resistance mechanisms. A more prudent and appropriate use of antimicrobial drug in humans and animals is also recommend.",
+    "authors": [
+      "Mazza P"
+    ],
+    "journal": "Bollettino chimico farmaceutico",
+    "pub_date": {
+      "year": "1994",
+      "month": "Nov",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Bacteria",
+      "Bacterial Infections",
+      "Drug Resistance, Microbial",
+      "Humans"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "9675520",
+    "title": "Antibiotic resistance in respiratory pathogens.",
+    "abstract": "Antibiotic resistance in respiratory pathogens has dramatically increased during recent years. Resistance to penicillin and multiple antimicrobial agents in pneumococci and resistance to ampicillin in Moraxella catarrhalis and Haemophilus influenzae, as a result of betalactamase production, have become highly prevalent worldwide. The emergence of multiple drug-resistant tuberculosis in different countries is of concern, and has become a therapeutic challenge.",
+    "authors": [
+      "Dominguez M A",
+      "Pallares R"
+    ],
+    "journal": "Current opinion in pulmonary medicine",
+    "pub_date": {
+      "year": "1998",
+      "month": "May",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Haemophilus influenzae",
+      "Humans",
+      "Microbial Sensitivity Tests",
+      "Moraxella catarrhalis",
+      "Mycobacterium tuberculosis",
+      "Respiratory Tract Infections",
+      "Risk Factors"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "2919499",
+    "title": "Antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Bertschinger H U"
+    ],
+    "journal": "The Veterinary record",
+    "pub_date": {
+      "year": "1989",
+      "month": "Jan",
+      "day": "21"
+    },
+    "mesh_terms": [
+      "Ampicillin Resistance",
+      "Animals",
+      "Anti-Bacterial Agents",
+      "Campylobacter",
+      "Campylobacter Infections",
+      "Chickens",
+      "Drug Resistance, Microbial",
+      "Erythromycin",
+      "Poultry Diseases",
+      "Tetracycline Resistance"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "11452756",
+    "title": "Antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Hopkins R H",
+      "Archer N C",
+      "Wells C",
+      "Shoptaw E J",
+      "Sanchez N"
+    ],
+    "journal": "The Journal of the Arkansas Medical Society",
+    "pub_date": {
+      "year": "2001",
+      "month": "Jul",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Respiratory Tract Infections"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "9274691",
+    "title": "Antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Finch R G"
+    ],
+    "journal": "British journal of hospital medicine",
+    "pub_date": {
+      "year": "",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Humans"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "33973427",
+    "title": "[The impact of genetic and environmental regulation on the expression of antibiotic resistance genes in Enterobacteriaceae].",
+    "abstract": "Antibiotic resistance is a major global concern and challenge in the 21st century. Enterobacteriaceae are one of the important pathogens of hospital-acquired infections. With the increasing use of antibiotics in clinical practice, a variety of drug-resistant Enterobacteriaceae, especially multidrug-resistant Enterobacteriaceae have emerged, posing an increasingly serious threat to human health. Bacteria can acquire antibiotic resistance by mutation or horizontal transfer of antibiotic resistance genes, and it is often possible to predict the corresponding resistance phenotype from known mechanism. However, recent findings suggest that genetic background and environmental factors could alter the expression of specific resistance genes and that a given genotype does not always generate the expected resistance phenotype. The genotype-phenotype segregation greatly hampers our ability to predict antibiotic resistance phenotype from a genetic perspective. In this review, we explore the genetic and environmental regulation of the expression of antibiotic resistance genes in a variety of Enterobacteriaceae, with the aim to provide scientific evidence for genetic prediction of antibiotic resistance phenotype and clinical guidance on drug use. 细菌耐药性是21世纪国际关注的重要问题，也是全球面临的重大挑战。肠杆菌科细菌是医院感染的重要病原菌之一。近年来，随着抗生素的大量使用，多种肠杆菌科耐药菌，尤其是多重耐药肠杆菌开始大量出现，对人类健康形成了日益严重的威胁。细菌可以通过耐药基因突变或水平转移的方式获得耐药性，通常情况下，可以通过已知的耐药机制预测相应的耐药表型。然而，最近有研究表明，遗传背景和环境因素能够影响耐药基因的表达，给定的基因型并不一定总是产生预期的耐药表型。这种基因型-表型分离的现象极大程度上限制了从遗传学角度预测耐药表型的能力。文中结合最新文献，从遗传背景和环境条件两个方面探讨了多种肠杆菌科细菌耐药基因的表达调控机制，以期为遗传学预测耐药表型以及临床指导用药提供一定的支持。.",
+    "authors": [
+      "Li Yiming",
+      "Wang Shaolin"
+    ],
+    "journal": "Sheng wu gong cheng xue bao = Chinese journal of biotechnology",
+    "pub_date": {
+      "year": "2021",
+      "month": "Apr",
+      "day": "25"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Cross Infection",
+      "Drug Resistance, Microbial",
+      "Enterobacteriaceae",
+      "Humans"
+    ],
+    "keywords": [
+      "Enterobacteriaceae",
+      "antibiotic resistance",
+      "environment",
+      "gene expression",
+      "genetic background"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "21106163",
+    "title": "[Antibiotic resistance: a world concern in 2010].",
+    "abstract": "",
+    "authors": [
+      "Gutmann Laurent",
+      "Lortholary Olivier"
+    ],
+    "journal": "Medecine sciences : M/S",
+    "pub_date": {
+      "year": "2010",
+      "month": "Nov",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacterial Infections",
+      "Drug Resistance, Microbial",
+      "Global Health",
+      "Humans",
+      "Politics"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "27713431",
+    "title": "Antibiotic resistance: Correct dosage.",
+    "abstract": "",
+    "authors": [
+      "Randall C"
+    ],
+    "journal": "British dental journal",
+    "pub_date": {
+      "year": "2016",
+      "month": "Oct",
+      "day": "07"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Bacterial",
+      "Drug Resistance, Microbial"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "36884273",
+    "title": "A mobile target.",
+    "abstract": "The global spread of antibiotic resistance could be due to a number of factors, and not just the overuse of antibiotics in agriculture and medicine as previously thought.",
+    "authors": [
+      "Oliveira de Santana Carolina",
+      "Spealman Pieter",
+      "Perron Gabriel G"
+    ],
+    "journal": "eLife",
+    "pub_date": {
+      "year": "2023",
+      "month": "Mar",
+      "day": "08"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Agriculture"
+    ],
+    "keywords": [
+      "aminoglycosides",
+      "antibiotic consumption",
+      "antibiotic resistance",
+      "ecology",
+      "epidemiology",
+      "global health",
+      "globalization"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "37819517",
+    "title": "The Pseudomonas aeruginosa Resistome: Permanent and Transient Antibiotic Resistance, an Overview.",
+    "abstract": "One of the most concerning characteristics of Pseudomonas aeruginosa is its low susceptibility to several antibiotics of common use in clinics, as well as its facility to acquire increased resistance levels. Consequently, the study of the antibiotic resistance mechanisms of this bacterium is of relevance for human health. For such a study, different types of resistance should be distinguished. The intrinsic resistome is composed of a set of genes, present in the core genome of P. aeruginosa, which contributes to its characteristic, species-specific, phenotype of susceptibility to antibiotics. Acquired resistance refers to those genetic events, such as the acquisition of mutations or antibiotic resistance genes that reduce antibiotic susceptibility. Finally, antibiotic resistance can be transiently acquired in the presence of specific compounds or under some growing conditions. The current article provides information on methods currently used to analyze intrinsic, mutation-driven, and transient antibiotic resistance in P. aeruginosa.",
+    "authors": [
+      "Sanz-García Fernando",
+      "Laborda Pablo",
+      "Ochoa-Sánchez Luz Edith",
+      "Martínez José Luis",
+      "Hernando-Amado Sara"
+    ],
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "pub_date": {
+      "year": "2024",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Humans",
+      "Pseudomonas aeruginosa",
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Mutation",
+      "Phenotype",
+      "Pseudomonas Infections",
+      "Microbial Sensitivity Tests"
+    ],
+    "keywords": [
+      "Acquired resistance",
+      "Antibiotic resistance",
+      "Intrinsic resistance",
+      "Pseudomonas aeruginosa",
+      "Resistome"
+    ],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "28285740",
+    "title": "Fight antibiotic resistance - it's in your hands to improve antibiotic stewardship.",
+    "abstract": "",
+    "authors": [
+      "Bashir A",
+      "Gray J"
+    ],
+    "journal": "The Journal of hospital infection",
+    "pub_date": {
+      "year": "2017",
+      "month": "Apr",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Hand",
+      "Humans"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "4896048",
+    "title": "Transferable antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Royal W A",
+      "Robinson R A"
+    ],
+    "journal": "New Zealand veterinary journal",
+    "pub_date": {
+      "year": "1969",
+      "month": "Jun",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Animals",
+      "Cattle",
+      "Drug Resistance, Microbial",
+      "Escherichia coli",
+      "Genetics, Microbial",
+      "Salmonella",
+      "Tetracycline"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "5644167",
+    "title": "Transferable antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Anderson E S"
+    ],
+    "journal": "British medical journal",
+    "pub_date": {
+      "year": "1968",
+      "month": "Mar",
+      "day": "02"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Enterobacteriaceae",
+      "Genetics, Microbial"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "5321593",
+    "title": "Transferable antibiotic resistance.",
+    "abstract": "",
+    "authors": [],
+    "journal": "British medical journal",
+    "pub_date": {
+      "year": "1965",
+      "month": "Nov",
+      "day": "27"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Salmonella typhimurium"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "2513671",
+    "title": "Antibiotic resistance in the tropics. 2. Some thoughts on the epidemiology and clinical significance of bacterial resistance to antimicrobial agents.",
+    "abstract": "This paper discusses the prevalence of antibiotic resistance in Enterobacteriaceae, respiratory infections and gonorrhoeae in tropical countries, assesses its significance and clinical relevance, and considers how the spread of such resistance might be halted by educative policies.",
+    "authors": [
+      "Slack R"
+    ],
+    "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+    "pub_date": {
+      "year": "1989",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Enterobacteriaceae",
+      "Gonorrhea",
+      "Humans",
+      "Kenya",
+      "Male",
+      "Microbial Sensitivity Tests",
+      "Neisseria gonorrhoeae",
+      "Respiratory Tract Infections",
+      "Salmonella typhimurium",
+      "Streptococcus pneumoniae",
+      "beta-Lactamases"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "333057",
+    "title": "Extrachromosomal control of antibiotic resistance.",
+    "abstract": "",
+    "authors": [
+      "Goldstein J",
+      "Macrina F L"
+    ],
+    "journal": "Journal of endodontics",
+    "pub_date": {
+      "year": "1977",
+      "month": "Jul",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Conjugation, Genetic",
+      "Drug Resistance, Microbial",
+      "Extrachromosomal Inheritance"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "12453376",
+    "title": "[Antibiotic resistance: what to do now?].",
+    "abstract": "",
+    "authors": [
+      "Campos José",
+      "Baquero Fernando"
+    ],
+    "journal": "Medicina clinica",
+    "pub_date": {
+      "year": "2002",
+      "month": "Nov",
+      "day": "16"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Infection Control"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "7597657",
+    "title": "Antibiotic resistance in common acute respiratory pathogens.",
+    "abstract": "",
+    "authors": [
+      "Venkatesan P",
+      "Innes J A"
+    ],
+    "journal": "Thorax",
+    "pub_date": {
+      "year": "1995",
+      "month": "May",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Haemophilus influenzae",
+      "Humans",
+      "Lung Diseases",
+      "Moraxella catarrhalis",
+      "Streptococcus pneumoniae"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "36351303",
+    "title": "Emerging antibiotic resistance: Why we need new antibiotics!",
+    "abstract": "",
+    "authors": [
+      "Widmer Andreas F"
+    ],
+    "journal": "Swiss medical weekly",
+    "pub_date": {
+      "year": "2022",
+      "month": "Nov",
+      "day": "07"
+    },
+    "mesh_terms": [
+      "Humans",
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Microbial Sensitivity Tests"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "6651029",
+    "title": "Antibiotic resistance--a world health problem we cannot ignore.",
+    "abstract": "",
+    "authors": [
+      "Kunin C M"
+    ],
+    "journal": "Annals of internal medicine",
+    "pub_date": {
+      "year": "1983",
+      "month": "Dec",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Global Health",
+      "Humans",
+      "World Health Organization"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "9349809",
+    "title": "Antibiotic resistance spread in food.",
+    "abstract": "",
+    "authors": [
+      "Perreten V",
+      "Schwarz F",
+      "Cresta L",
+      "Boeglin M",
+      "Dasen G",
+      "Teuber M"
+    ],
+    "journal": "Nature",
+    "pub_date": {
+      "year": "1997",
+      "month": "Oct",
+      "day": "23"
+    },
+    "mesh_terms": [
+      "Animal Husbandry",
+      "Animals",
+      "Cheese",
+      "Drug Resistance, Microbial",
+      "Food Microbiology",
+      "Humans",
+      "Lactococcus",
+      "Plasmids"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "6398730",
+    "title": "Counteracting antibiotic resistance: new drugs.",
+    "abstract": "",
+    "authors": [
+      "Sykes R B",
+      "Bonner D P"
+    ],
+    "journal": "British medical bulletin",
+    "pub_date": {
+      "year": "1984",
+      "month": "Jan",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Chemical Phenomena",
+      "Chemistry",
+      "Drug Resistance, Microbial",
+      "Enzyme Inhibitors",
+      "Lactams"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "19023347",
+    "title": "[Antibiotic resistance--a global public health problem].",
+    "abstract": "",
+    "authors": [
+      "Simonsen Gunnar Skov"
+    ],
+    "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+    "pub_date": {
+      "year": "2008",
+      "month": "Nov",
+      "day": "20"
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Global Health",
+      "Humans",
+      "Public Health"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "10202904",
+    "title": "Antibiotic resistance--to treat..",
+    "abstract": "",
+    "authors": [
+      "Blower S",
+      "Koelle K",
+      "Lietman T"
+    ],
+    "journal": "Nature medicine",
+    "pub_date": {
+      "year": "1999",
+      "month": "Apr",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Antitubercular Agents",
+      "Drug Resistance, Microbial",
+      "Mycobacterium tuberculosis"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "7550699",
+    "title": "Antibiotic resistance profiling.",
+    "abstract": "",
+    "authors": [
+      "Hammonds S J"
+    ],
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "pub_date": {
+      "year": "1995",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Bacteria",
+      "Bacteriological Techniques",
+      "Drug Resistance, Microbial",
+      "Microbial Sensitivity Tests"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "5484830",
+    "title": "Antibiotic resistance factors.",
+    "abstract": "",
+    "authors": [
+      "Hook E W"
+    ],
+    "journal": "The Journal of the Egyptian Public Health Association",
+    "pub_date": {
+      "year": "1970",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Conjugation, Genetic",
+      "Drug Resistance, Microbial",
+      "Enterobacteriaceae",
+      "Salmonella"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "12973186",
+    "title": "Selective digestive decontamination and antibiotic resistance: a balancing act.",
+    "abstract": "",
+    "authors": [
+      "Bonten Marc J M",
+      "Grundmann Hajo"
+    ],
+    "journal": "Critical care medicine",
+    "pub_date": {
+      "year": "2003",
+      "month": "Aug",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Antibiotic Prophylaxis",
+      "Critical Care",
+      "Cross Infection",
+      "Drug Resistance, Microbial",
+      "Humans"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "8642228",
+    "title": "Antibiotic resistance: a self-inflicted problem.",
+    "abstract": "",
+    "authors": [
+      "Norrby S R"
+    ],
+    "journal": "Journal of internal medicine",
+    "pub_date": {
+      "year": "1996",
+      "month": "May",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Industry",
+      "Drug Resistance, Microbial",
+      "Drug Utilization",
+      "Humans",
+      "Nonprescription Drugs",
+      "Practice Patterns, Physicians'"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "14570336",
+    "title": "Antibiotic resistance: have we become the dinosaurs?",
+    "abstract": "",
+    "authors": [
+      "Hamdy Ronald C"
+    ],
+    "journal": "Southern medical journal",
+    "pub_date": {
+      "year": "2003",
+      "month": "Oct",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Practice Guidelines as Topic",
+      "United States"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "7009132",
+    "title": "[Bacterial antibiotic resistance, development and distribution].",
+    "abstract": "",
+    "authors": [
+      "Schrinner E"
+    ],
+    "journal": "Deutsche medizinische Wochenschrift (1946)",
+    "pub_date": {
+      "year": "1981",
+      "month": "Feb",
+      "day": "27"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Chromosomes, Bacterial",
+      "Conjugation, Genetic",
+      "Drug Resistance, Microbial",
+      "Genetics, Microbial",
+      "Mutation",
+      "Plasmids"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "1907832",
+    "title": "Antibiotic resistance among enterococci: current problems and management strategies.",
+    "abstract": "",
+    "authors": [
+      "Murray B E"
+    ],
+    "journal": "Current clinical topics in infectious diseases",
+    "pub_date": {
+      "year": "1991",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Enterococcus faecalis",
+      "Humans",
+      "Streptococcus"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "19079410",
+    "title": "[Antibiotic resistance in health care facilities].",
+    "abstract": "",
+    "authors": [
+      "Harthug Stig"
+    ],
+    "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+    "pub_date": {
+      "year": "2008",
+      "month": "Dec",
+      "day": "04"
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Global Health",
+      "Humans",
+      "Infection Control",
+      "Methicillin Resistance"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "11333584",
+    "title": "[Antibiotic resistance for the year 2000].",
+    "abstract": "",
+    "authors": [
+      "Ziglam H",
+      "Finch R G"
+    ],
+    "journal": "Enfermedades infecciosas y microbiologia clinica",
+    "pub_date": {
+      "year": "2001",
+      "month": "Mar",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "7019871",
+    "title": "[Extrachromosomal bacterial antibiotic resistance].",
+    "abstract": "",
+    "authors": [
+      "Młynarczyk G",
+      "Młynarczyk A",
+      "Dworczyński A",
+      "Osowiecki H"
+    ],
+    "journal": "Polski tygodnik lekarski (Warsaw, Poland : 1960)",
+    "pub_date": {
+      "year": "1981",
+      "month": "May",
+      "day": "04"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Conjugation, Genetic",
+      "Drug Resistance, Microbial",
+      "Extrachromosomal Inheritance",
+      "Phenotype",
+      "R Factors",
+      "Transduction, Genetic"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "9567938",
+    "title": "The acquisition of antibiotic resistance in the periodontal microflora.",
+    "abstract": "",
+    "authors": [
+      "Walker C B"
+    ],
+    "journal": "Periodontology 2000",
+    "pub_date": {
+      "year": "1996",
+      "month": "Feb",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Mouth",
+      "Periodontal Diseases",
+      "Tetracycline Resistance",
+      "beta-Lactam Resistance"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "524491",
+    "title": "[Antibiotic resistance].",
+    "abstract": "",
+    "authors": [
+      "Møller J K"
+    ],
+    "journal": "Ugeskrift for laeger",
+    "pub_date": {
+      "year": "1979",
+      "month": "Nov",
+      "day": "12"
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Conjugation, Genetic",
+      "Drug Resistance, Microbial",
+      "Extrachromosomal Inheritance",
+      "Plasmids"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "544231",
+    "title": "[Antibiotic resistance].",
+    "abstract": "",
+    "authors": [
+      "Kupari M"
+    ],
+    "journal": "Duodecim; laaketieteellinen aikakauskirja",
+    "pub_date": {
+      "year": "1979",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Drug Resistance, Microbial",
+      "Humans",
+      "R Factors"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "31767422",
+    "title": "Reducing antibiotic resistance through antibiotic stewardship in the ambulatory setting.",
+    "abstract": "",
+    "authors": [
+      "Keller Sara C",
+      "Cosgrove Sara E"
+    ],
+    "journal": "The Lancet. Infectious diseases",
+    "pub_date": {
+      "year": "2020",
+      "month": "Feb",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Ambulatory Care Facilities",
+      "Antimicrobial Stewardship",
+      "Candidemia",
+      "Communicable Diseases",
+      "Drug Resistance, Microbial",
+      "Humans"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "33683857",
+    "title": "Learning from COVID-19 to Tackle Antibiotic Resistance.",
+    "abstract": "COVID-19 has brought into sharp focus the failure of not preventing and preparing for pandemics. As the world reels from the tragedy and economic fallout of COVID-19, there are vital lessons to learn and apply in the fight against drug resistance. The unchecked growth of drug-resistant infections is a silent pandemic with long-term implications for global public health and the global economy. Now more than ever, governments have the opportunity to make robust and comprehensive investments into the way they prepare and respond to antibiotic resistance. This could cascade into lasting and long-term benefits for people and countries.",
+    "authors": [
+      "Balasegaram Manica"
+    ],
+    "journal": "ACS infectious diseases",
+    "pub_date": {
+      "year": "2021",
+      "month": "Apr",
+      "day": "09"
+    },
+    "mesh_terms": [
+      "COVID-19",
+      "Drug Resistance, Microbial",
+      "Global Health",
+      "Humans",
+      "Pandemics"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "7754170",
+    "title": "[Antibiotic resistance: a serious danger too ignored].",
+    "abstract": "",
+    "authors": [
+      "Bonomo L"
+    ],
+    "journal": "Recenti progressi in medicina",
+    "pub_date": {
+      "year": "1995",
+      "month": "Feb",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Drug Resistance, Microbial",
+      "Humans",
+      "Pneumococcal Infections"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "6943257",
+    "title": "Epidemiology of antibiotic resistance.",
+    "abstract": "Antimicrobial resistance has been found since 1910. Mechanisms responsible for the resistance antedate introduction of antibiotics. However, proliferation of resistant strains can be closely linked to patterns of antibiotic use. This is seen most often in the hospital setting. Infection control personnel should monitor: (1) antibiotic resistance at least four times per year; (2) key bacteria for multi-drug resistance; and (3) certain index drugs where emergence of resistance may be critical. If a problem with resistant strains develops, the following steps should be taken: (1) identify and decrease inappropriate antibiotic use; (2) segregate patients harboring resistant strains; and (3) consider elimination of certain or all antibiotics.",
+    "authors": [
+      "Palmer D L"
+    ],
+    "journal": "Journal of medicine",
+    "pub_date": {
+      "year": "1980",
+      "month": "",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Microbial",
+      "Humans"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  },
+  {
+    "pmid": "4561870",
+    "title": "Antibiotic resistance in bacteria.",
+    "abstract": "",
+    "authors": [
+      "Symonds N"
+    ],
+    "journal": "Postgraduate medical journal",
+    "pub_date": {
+      "year": "1972",
+      "month": "Apr",
+      "day": ""
+    },
+    "mesh_terms": [
+      "Anti-Bacterial Agents",
+      "Bacteria",
+      "Drug Resistance, Microbial",
+      "Genetics, Microbial",
+      "Salmonella",
+      "Shigella sonnei",
+      "Staphylococcus"
+    ],
+    "keywords": [],
+    "search_term": "antibiotic resistance"
+  }
+]
