@@ -1,38 +1,14 @@
 {
-  "fetched_at": "2026-05-27T16:28:55.294067",
-  "total_articles": 1495,
+  "fetched_at": "2026-05-28T14:13:15.250249",
+  "total_articles": 300,
   "search_terms": [
-    "health misinformation",
-    "medical fact check",
-    "covid-19 vaccine effectiveness",
-    "diabetes mellitus treatment",
-    "hypertension management",
-    "cancer prevention",
-    "antibiotic resistance",
-    "mental health treatment",
-    "obesity intervention",
-    "cardiovascular disease prevention",
-    "infectious disease outbreak",
-    "nutritional supplement evidence",
-    "traditional medicine clinical trial",
-    "chronic disease self-management",
-    "vaccine safety"
+    "antimicrobial stewardship",
+    "maternal mortality",
+    "telemedicine effectiveness"
   ],
   "articles_per_term": {
-    "health misinformation": 100,
-    "medical fact check": 96,
-    "covid-19 vaccine effectiveness": 100,
-    "diabetes mellitus treatment": 100,
-    "hypertension management": 100,
-    "cancer prevention": 100,
-    "antibiotic resistance": 100,
-    "mental health treatment": 100,
-    "obesity intervention": 100,
-    "cardiovascular disease prevention": 100,
-    "infectious disease outbreak": 100,
-    "nutritional supplement evidence": 100,
-    "traditional medicine clinical trial": 100,
-    "chronic disease self-management": 99,
-    "vaccine safety": 100
+    "antimicrobial stewardship": 100,
+    "maternal mortality": 100,
+    "telemedicine effectiveness": 100
   }
 }
