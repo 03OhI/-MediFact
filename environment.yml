@@ -1,0 +1,33 @@
+name: medifact
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.13
+  - pip=26.0.1
+  - setuptools=82.0.1
+  - wheel=0.47.0
+  - pip:
+      # 데이터 수집/처리
+      - requests==2.33.1
+      - pandas==2.2.3
+      - numpy==1.26.4
+      - tqdm==4.67.3
+      # 딥러닝 (KPF-BERT, BioBERT, KLUE-RoBERTa 파인튜닝)
+      - torch==2.2.2
+      - transformers==4.46.3
+      - sentence-transformers==3.3.1
+      # 벡터 DB / RAG 평가
+      - faiss-cpu==1.9.0.post1
+      - ragas==0.2.10
+      # NLP (TF-IDF, TextRank, 한국어 형태소)
+      - scikit-learn==1.8.0
+      - pytextrank==3.3.0
+      - spacy==3.8.2
+      - kiwipiepy==0.18.0
+      # PubMed 논문 수집
+      - biopython==1.85
+      # Gemini LLM 통합
+      - google-generativeai==0.8.3
+      # PDF 업로드 처리
+      - PyPDF2==3.0.1
+prefix: /usr/local/Caskroom/miniforge/base/envs/medifact
