@@ -8,21 +8,9 @@ from datetime import datetime
 BASE_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
 
 SEARCH_TERMS = [
-    "health misinformation",
-    "medical fact check",
-    "covid-19 vaccine effectiveness",
-    "diabetes mellitus treatment",
-    "hypertension management",
-    "cancer prevention",
-    "antibiotic resistance",
-    "mental health treatment",
-    "obesity intervention",
-    "cardiovascular disease prevention",
-    "infectious disease outbreak",
-    "nutritional supplement evidence",
-    "traditional medicine clinical trial",
-    "chronic disease self-management",
-    "vaccine safety",
+    "antimicrobial stewardship",
+"maternal mortality",
+"telemedicine effectiveness",
 ]
 
 # 실행 위치와 무관하게 항상 이 스크립트가 있는 폴더에 저장
