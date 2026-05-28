@@ -36,7 +36,7 @@ Gemini API 키는 환경 변수로 설정합니다.
 
 ```bash
 export GOOGLE_API_KEY="your-api-key-here"   # Windows: set GOOGLE_API_KEY=...
-```<img width="716" height="337" alt="화면 캡처 2026-05-28 152115" src="https://github.com/user-attachments/assets/254ede57-6edd-4346-a853-e908d36b127b" />
+```
 
+<img width="716" height="337" alt="화면 캡처 2026-05-28 152115" src="https://github.com/user-attachments/assets/86681479-268c-4086-b870-512cda264faa" />
 
-<img width="716" height="337" alt="화면 캡처 2026-05-28 152115" src="https://github.com/user-attachments/assets/e1a3c926-7a6b-4c69-addb-f9c93c988519" />
